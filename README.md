@@ -17,7 +17,7 @@ Transition professionally into Python development / fintech.
 trading-bot-journey/
 ├── semana1.py        # Variables and data types
 ├── analizador.py     # Price analyzer with f-strings
-└── practica1.py      # Solo exercise — ETH/USDT analyzer
+└── ejercicio_analizador.py   # Solo exercise — ETH/USDT analyzer
 ```
 
 ## 🛠️ Tech Stack
