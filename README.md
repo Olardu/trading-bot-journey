@@ -11,7 +11,8 @@ Transition professionally into Python development / fintech.
 - ✅ Week 0 — Environment setup (Python 3.12 + VS Code)
 - ✅ Week 1 — Variables, data types, price calculations
 - ✅ Week 2 — Conditionals + macro variables (FED rate)
-- ⏳ Week 3 — Lists & loops (coming soon)
+- ✅ Week 3 — Lists, loops & price series analysis
+- ⏳ Week 4 — Functions (coming soon)
 
 ## 🗂️ Project Structure
 ```
@@ -20,7 +21,9 @@ trading-bot-journey/
 ├── analizador.py              # Price analyzer with f-strings
 ├── ejercicio_analizador.py    # Solo exercise — ETH/USDT analyzer
 ├── semana2.py                 # Conditionals — if/elif/else logic
-└── semana2_practica.py        # Solo exercise — FED rate variable
+├── semana2_practica.py        # Solo exercise — FED rate variable
+├── semana3.py                 # Lists, loops & price series
+└── semana3_practica.py        # Solo exercise — daily stats report
 ```
 
 ## 🛠️ Tech Stack
@@ -34,8 +37,8 @@ trading-bot-journey/
 | 0 | Setup | ✅ |
 | 1 | Variables & data types | ✅ |
 | 2 | Conditionals + macro variables | ✅ |
-| 3 | Lists & loops | ⏳ |
-| 4 | Functions | 🔒 |
+| 3 | Lists & loops | ✅ |
+| 4 | Functions | ⏳ |
 | 5 | Dictionaries | 🔒 |
 | 6 | Integration project | 🔒 |
 ```
